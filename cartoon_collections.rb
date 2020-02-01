@@ -1,7 +1,7 @@
 def roll_call_dwarves(array)
-  i = 0 
     new_arr = []
-    
+    new_arr(array) do |i|
+      puts i 
 end
 
 def summon_captain_planet# code an argument here
